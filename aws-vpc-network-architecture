@@ -1,0 +1,20 @@
+aws-vpc-network-architecture/
+│
+├── README.md
+│
+├── diagrams/
+│   └── aws-vpc-architecture.png
+│
+├── screenshots/
+│   ├── vpc-dashboard.png
+│   ├── subnet-configuration.png
+│   ├── route-tables.png
+│   ├── internet-gateway.png
+│   └── nat-gateways.png
+│
+├── documentation/
+│   ├── subnet-cidr-planning.md
+│   ├── routing-configuration.md
+│   └── implementation-steps.md
+│
+└── LICENSE
